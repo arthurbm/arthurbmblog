@@ -15,6 +15,7 @@ export default function FirstPost() {
             <a>Back to home</a>
           </Link>
         </h2>
+        <p>Captivated by the way you look, tonight the night is dancing in your eyeees, your sweet eyeees, yeeaah</p>
       </Layout>
     </>
   )
